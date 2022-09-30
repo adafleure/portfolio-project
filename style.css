@@ -117,3 +117,6 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+.icon {
+  font-size: 20px;
+}
