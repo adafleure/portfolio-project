@@ -120,11 +120,9 @@ p {
 .icon {
   font-size: 25px;
   padding-right: 5px;
-}
-.footer a {
   transition: all 100ms ease-in-out;
   color: var(--primary-color);
 }
-.footer a:hover {
+.icon:hover {
   color: #855f68;
 }
