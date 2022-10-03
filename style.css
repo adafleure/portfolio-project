@@ -129,5 +129,9 @@ p {
 }
 .source {
   text-decoration: none;
+  color: #86676e;
+}
+.source:hover {
+  text-decoration: none;
   color: #855f68;
 }
